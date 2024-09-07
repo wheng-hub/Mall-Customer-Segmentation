@@ -4,9 +4,9 @@ The goal of the analysis was to identify distinct customer groups based on their
 ## Data Overview
 The dataset used for this analysis contains customer information with the following attributes:
 
-Annual Income (k$)
-Spending Score (1-100)
-The dataset includes 200 records of customer profiles.
+- Annual Income (k$)
+- Spending Score (1-100)
+- The dataset includes 200 records of customer profiles.
 
 ## About the dataset
-Source: [Mall Customer Segmentation Data]([https://www.kaggle.com/sidtwr/videogames-sales-dataset?select=Video_Games_Sales_as_at_22_Dec_2016.csv])
+Source: [Mall Customer Segmentation Data](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
