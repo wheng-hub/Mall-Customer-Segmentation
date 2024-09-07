@@ -1,4 +1,4 @@
-# Mall Customer Segmentation 
+# Mall Customer Segmentation (K-Means Clustering)
 The goal of the analysis was to identify distinct customer groups based on their annual income and spending score to enhance marketing strategies, improve customer experience, and optimize resource allocation. 
 
 ## Data Overview
